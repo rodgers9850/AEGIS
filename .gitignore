@@ -7,6 +7,11 @@ bin-release/
 # Other files and folders
 .settings/
 
+# Local runtime databases
+*.db
+*.db-*
+*.sqlite*
+
 # Executables
 *.swf
 *.air
